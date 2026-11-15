@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmed+Hamouda+%F0%9F%91%8B;Robotics+%26+Edge+AI+Engineer;Computer+Systems+Engineering+%40+MEDTECH;Future+Robotics+Researcher+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmed+Hamouda;Robotics+%26+Edge+AI+Engineer;Computer+Systems+Engineering+%40+MEDTECH;Future+Robotics+Researcher" alt="Typing SVG" />
 
 <p>
   <a href="mailto:hamoudaahmad655@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -12,18 +12,18 @@
 
 ---
 
-### 👨‍💻 About me
+### About me
 
-- 🎓 Final-year **Computer Systems Engineering** student at **MEDTECH** (Tunis) — GPA 3.75, Top 3 Excellence Scholarship
-- 🤖 Working on **robot learning**, **optimal control**, and **edge AI**
-- 🏆 **2nd place** senior project — *RoboDog* quadruped robot with Enova Robotics
-- 🔬 Student researcher at MEDTECH's **I-ACT Research Group** (computer vision for plant health on Raspberry Pi)
-- 🛠️ I teach **PCB design (Altium)** workshops and mentor junior students
-- 🎯 Goal: a **PhD in robotics** and a career in research
+- Final-year **Computer Systems Engineering** student at **MEDTECH** (Tunis) — GPA 3.75, Top 3 Excellence Scholarship
+- Working on **robot learning**, **optimal control**, and **edge AI**
+- **2nd place** senior project — *RoboDog* quadruped robot with Enova Robotics
+- Student researcher at MEDTECH's **I-ACT Research Group** (computer vision for plant health on Raspberry Pi)
+- I teach **PCB design (Altium)** workshops and mentor junior students
+- Goal: a **PhD in robotics** and a career in research
 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -53,19 +53,19 @@
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | What it is |
 |---|---|
-| 🐕 [**Robotic-Dog**](https://github.com/Ahmed-Hammoda/Robotic-Dog) | Quadruped robot (RoboDog) with Enova Robotics — 2nd place senior project |
-| 🦾 [**ur5e-energy-optimal-control**](https://github.com/Ahmed-Hammoda/ur5e-energy-optimal-control) | Energy-optimal control of a UR5e industrial arm, simulated in ROS 2 |
-| 🧠 [**ita-diffusion-policy**](https://github.com/Ahmed-Hammoda/ita-diffusion-policy) | Diffusion-policy robot learning on the LIBERO benchmark |
-| 🌱 [**nabta**](https://github.com/Ahmed-Hammoda/nabta) | AI irrigation assistant — IoT sensors + app + AI |
-| 🛡️ [**cross-network-intrusion-analysis**](https://github.com/Ahmed-Hammoda/cross-network-intrusion-analysis) | Intrusion detection across IoT network datasets (CRISP-DM) |
+| [**Robotic-Dog**](https://github.com/Ahmed-Hammoda/Robotic-Dog) | Quadruped robot (RoboDog) with Enova Robotics — 2nd place senior project |
+| [**ur5e-energy-optimal-control**](https://github.com/Ahmed-Hammoda/ur5e-energy-optimal-control) | Energy-optimal control of a UR5e industrial arm, simulated in ROS 2 |
+| [**ita-diffusion-policy**](https://github.com/Ahmed-Hammoda/ita-diffusion-policy) | Diffusion-policy robot learning on the LIBERO benchmark |
+| [**nabta**](https://github.com/Ahmed-Hammoda/nabta) | AI irrigation assistant — IoT sensors + app + AI |
+| [**cross-network-intrusion-analysis**](https://github.com/Ahmed-Hammoda/cross-network-intrusion-analysis) | Intrusion detection across IoT network datasets (CRISP-DM) |
 
 ---
 
-### 📊 GitHub stats
+### Contributions
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ahmed-Hammoda&theme=tokyonight&hide_border=true" />
@@ -81,5 +81,5 @@
 ---
 
 <div align="center">
-  <i>"Building robots that learn." 🤖</i>
+  <i>"Building robots that learn." </i>
 </div>
